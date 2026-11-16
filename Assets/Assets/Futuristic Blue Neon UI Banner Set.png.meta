@@ -1,0 +1,2673 @@
+fileFormatVersion: 2
+guid: b57b847d5cc077a4789b2f96cf5a011e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5048922379795436119
+    second: Futuristic Blue Neon UI Banner Set_0
+  - first:
+      213: 6106951354650793094
+    second: Futuristic Blue Neon UI Banner Set_1
+  - first:
+      213: -881816466566867550
+    second: Futuristic Blue Neon UI Banner Set_2
+  - first:
+      213: -6195284615338845976
+    second: Futuristic Blue Neon UI Banner Set_3
+  - first:
+      213: 5962060750988490720
+    second: Futuristic Blue Neon UI Banner Set_4
+  - first:
+      213: 6556495909112791047
+    second: Futuristic Blue Neon UI Banner Set_5
+  - first:
+      213: 8663762003285416471
+    second: Futuristic Blue Neon UI Banner Set_6
+  - first:
+      213: 8902382585195153285
+    second: Futuristic Blue Neon UI Banner Set_7
+  - first:
+      213: -2801798985299955033
+    second: Futuristic Blue Neon UI Banner Set_8
+  - first:
+      213: 4820459147438384965
+    second: Futuristic Blue Neon UI Banner Set_9
+  - first:
+      213: -4214671128685828184
+    second: Futuristic Blue Neon UI Banner Set_10
+  - first:
+      213: 9099903478569897686
+    second: Futuristic Blue Neon UI Banner Set_11
+  - first:
+      213: 1689775034297714562
+    second: Futuristic Blue Neon UI Banner Set_12
+  - first:
+      213: -8427630390775662569
+    second: Futuristic Blue Neon UI Banner Set_13
+  - first:
+      213: 4415555225249899497
+    second: Futuristic Blue Neon UI Banner Set_14
+  - first:
+      213: -7019606958834437630
+    second: Futuristic Blue Neon UI Banner Set_15
+  - first:
+      213: -2357509597935888427
+    second: Futuristic Blue Neon UI Banner Set_16
+  - first:
+      213: -2325700583831690895
+    second: Futuristic Blue Neon UI Banner Set_17
+  - first:
+      213: -526783689618689760
+    second: Futuristic Blue Neon UI Banner Set_18
+  - first:
+      213: 5895743191018945441
+    second: Futuristic Blue Neon UI Banner Set_19
+  - first:
+      213: -7842593206409290925
+    second: Futuristic Blue Neon UI Banner Set_20
+  - first:
+      213: 6220696778471727442
+    second: Futuristic Blue Neon UI Banner Set_21
+  - first:
+      213: -2060310558356722607
+    second: Futuristic Blue Neon UI Banner Set_22
+  - first:
+      213: 2894273336182558018
+    second: Futuristic Blue Neon UI Banner Set_23
+  - first:
+      213: 7009383163481628139
+    second: Futuristic Blue Neon UI Banner Set_24
+  - first:
+      213: -2935703544166389070
+    second: Futuristic Blue Neon UI Banner Set_25
+  - first:
+      213: -1664106331390667375
+    second: Futuristic Blue Neon UI Banner Set_26
+  - first:
+      213: -3239735814612802276
+    second: Futuristic Blue Neon UI Banner Set_27
+  - first:
+      213: -3608070288401836013
+    second: Futuristic Blue Neon UI Banner Set_28
+  - first:
+      213: -6720288560138375253
+    second: Futuristic Blue Neon UI Banner Set_29
+  - first:
+      213: -7992069069525950779
+    second: Futuristic Blue Neon UI Banner Set_30
+  - first:
+      213: -3163901495098406887
+    second: Futuristic Blue Neon UI Banner Set_31
+  - first:
+      213: -109229627108086208
+    second: Futuristic Blue Neon UI Banner Set_32
+  - first:
+      213: 3442390254225655628
+    second: Futuristic Blue Neon UI Banner Set_33
+  - first:
+      213: -8496277123654000375
+    second: Futuristic Blue Neon UI Banner Set_34
+  - first:
+      213: 7420557670832529697
+    second: Futuristic Blue Neon UI Banner Set_35
+  - first:
+      213: 1663742645825261494
+    second: Futuristic Blue Neon UI Banner Set_36
+  - first:
+      213: -5000508394845089618
+    second: Futuristic Blue Neon UI Banner Set_37
+  - first:
+      213: -7009529700447894685
+    second: Futuristic Blue Neon UI Banner Set_38
+  - first:
+      213: -8734574379296111064
+    second: Futuristic Blue Neon UI Banner Set_39
+  - first:
+      213: -6101124801024659626
+    second: Futuristic Blue Neon UI Banner Set_40
+  - first:
+      213: 4774887584826892919
+    second: Futuristic Blue Neon UI Banner Set_41
+  - first:
+      213: -2763013248291419474
+    second: Futuristic Blue Neon UI Banner Set_42
+  - first:
+      213: -551134380774397481
+    second: Futuristic Blue Neon UI Banner Set_43
+  - first:
+      213: -9195274189849350710
+    second: Futuristic Blue Neon UI Banner Set_44
+  - first:
+      213: -3700220508187392796
+    second: Futuristic Blue Neon UI Banner Set_45
+  - first:
+      213: 5421288101119845480
+    second: Futuristic Blue Neon UI Banner Set_46
+  - first:
+      213: -5495264658860876718
+    second: Futuristic Blue Neon UI Banner Set_47
+  - first:
+      213: 1093899500412980661
+    second: Futuristic Blue Neon UI Banner Set_48
+  - first:
+      213: -4074555633264038106
+    second: Futuristic Blue Neon UI Banner Set_49
+  - first:
+      213: -7810444442135522183
+    second: Futuristic Blue Neon UI Banner Set_50
+  - first:
+      213: -7732456538895130015
+    second: Futuristic Blue Neon UI Banner Set_51
+  - first:
+      213: 210167924714765646
+    second: Futuristic Blue Neon UI Banner Set_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 12
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ade5cd88df9ee9b0800000000000000
+      internalID: -5048922379795436119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 944
+        width: 107
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6841d8aa6ef30c450800000000000000
+      internalID: 6106951354650793094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1053
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51131889823c3f0800000000000000
+      internalID: -881816466566867550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1046
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81944677de50aa0800000000000000
+      internalID: -6195284615338845976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1044
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7b7f72aae7db250800000000000000
+      internalID: 5962060750988490720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1035
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70048f1aa4a5dfa50800000000000000
+      internalID: 6556495909112791047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1053
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9a50b3addb3870800000000000000
+      internalID: 8663762003285416471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1056
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874e2d5bcd9b8b70800000000000000
+      internalID: 8902382585195153285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1025
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2752ddaa20e19d0800000000000000
+      internalID: -2801798985299955033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1020
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547e8510e06b5e240800000000000000
+      internalID: 4820459147438384965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1035
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7269150fa7285c0800000000000000
+      internalID: -4214671128685828184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_11
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1035
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de008a100a594e70800000000000000
+      internalID: 9099903478569897686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_12
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1049
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28783add079437710800000000000000
+      internalID: 1689775034297714562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_13
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1018
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b783afca0b0b80800000000000000
+      internalID: -8427630390775662569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_14
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1051
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3e32f2514374d30800000000000000
+      internalID: 4415555225249899497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_15
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1037
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20230d399a8559e90800000000000000
+      internalID: -7019606958834437630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_16
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1039
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d71574e281784fd0800000000000000
+      internalID: -2357509597935888427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_17
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1054
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1712bce14a379bfd0800000000000000
+      internalID: -2325700583831690895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1041
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021feca760d70b8f0800000000000000
+      internalID: -526783689618689760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1032
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abbc9bf133e1d150800000000000000
+      internalID: 5895743191018945441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1027
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b1516d703892390800000000000000
+      internalID: -7842593206409290925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1039
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516938e2ca545650800000000000000
+      internalID: 6220696778471727442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1041
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c2922967e4863e0800000000000000
+      internalID: -2060310558356722607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_23
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1023
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dcb06c3468a2820800000000000000
+      internalID: 2894273336182558018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1027
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed1de199d4564160800000000000000
+      internalID: 7009383163481628139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1019
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6b1c3e294247d0800000000000000
+      internalID: -2935703544166389070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_26
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1027
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951bf0cb18e7e8e0800000000000000
+      internalID: -1664106331390667375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_27
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1013
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15a4e301752a03d0800000000000000
+      internalID: -3239735814612802276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_28
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1029
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318da27603f8dedc0800000000000000
+      internalID: -3608070288401836013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_29
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1027
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafa4d0092dbcb2a0800000000000000
+      internalID: -6720288560138375253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_30
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1021
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ced48a6687761190800000000000000
+      internalID: -7992069069525950779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_31
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1031
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91805507a509714d0800000000000000
+      internalID: -3163901495098406887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_32
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1022
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e264d9b30fb7ef0800000000000000
+      internalID: -109229627108086208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_33
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1039
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47036992b3d5cf20800000000000000
+      internalID: 3442390254225655628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_34
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1039
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9016353a8f8271a80800000000000000
+      internalID: -8496277123654000375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_35
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1043
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121e545c2ed1bf660800000000000000
+      internalID: 7420557670832529697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_36
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1031
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf451a1f1dc61710800000000000000
+      internalID: 1663742645825261494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_37
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1037
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea056e4db10aa9ab0800000000000000
+      internalID: -5000508394845089618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_38
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1020
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c04220e529be90800000000000000
+      internalID: -7009529700447894685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_39
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 963
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c3d931ee88c680800000000000000
+      internalID: -8734574379296111064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 735
+        width: 1211
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f69909153745ba0800000000000000
+      internalID: -6101124801024659626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_41
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1023
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a700c5fec34240800000000000000
+      internalID: 4774887584826892919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_42
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1021
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa44e9f61ec7a9d0800000000000000
+      internalID: -2763013248291419474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_43
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1021
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9ef62633af958f0800000000000000
+      internalID: -551134380774397481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1013
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd26bdc7d2d36080800000000000000
+      internalID: -9195274189849350710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_45
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1009
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e400ea6d0d26acc0800000000000000
+      internalID: -3700220508187392796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_46
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1011
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ec440ec84c3b40800000000000000
+      internalID: 5421288101119845480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_47
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 981
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cd6dd68e5ecb3b0800000000000000
+      internalID: -5495264658860876718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_48
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 867
+        width: 95
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdc716cccf4e2f00800000000000000
+      internalID: 1093899500412980661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_49
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1007
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62feabd4d354477c0800000000000000
+      internalID: -4074555633264038106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_50
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1005
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9749690592abb9390800000000000000
+      internalID: -7810444442135522183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_51
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 996
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16262060fbbc0b490800000000000000
+      internalID: -7732456538895130015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_52
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1005
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dfdcf2d9aaae200800000000000000
+      internalID: 210167924714765646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_53
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 932
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec64a7f72a5c740844f3074ec11393
+      internalID: -158781258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_54
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 962
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6731b4e6f5619e14db9cd730756a50f7
+      internalID: -1038208121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 908
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e189b4b4b99047b245a37f8eb4424
+      internalID: -273570226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 883
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb178d2de068a4c879e09c3ccdafd8
+      internalID: -1490543121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eef8bd7a9e03e42a5c632fef4c894f
+      internalID: -1657091106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_58
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 768
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef525686d8e26b41b9206934024200e
+      internalID: 710580241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 768
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814bbe8cbb72654ea2f05aa40c1a09e
+      internalID: 480855347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 1377
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b2060a9561ff4f8c6e6d65b74e715
+      internalID: -1779228352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 508
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6bb99c340f644e897f590c4ab4092
+      internalID: 1210763187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_62
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 510
+        width: 125
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe2d222e2808d45ac56de7ff07bd94
+      internalID: 1198074373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_63
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 524
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3cbbdf28d913479811ac3dd4f3a70
+      internalID: -222020806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 478
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b7fd9e84e41d4597dba80f3eed584
+      internalID: -35861007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 472
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36276531b5abd847989a1dfa53e33e1
+      internalID: 1147425011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_66
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 411
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283f89229c84f4848b2d9f00a6cba099
+      internalID: -2009901783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_67
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 429
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5edd5c45987c345b3ed4b7f5586179
+      internalID: -1809226244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 421
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d6f7c9a52b6d346a449b0fa26faea1
+      internalID: 1881060928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 384
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2803c3386b0a34744a406033787f2542
+      internalID: 347366207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_70
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 390
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2cdd3addd96e43a0056c8823ffd00
+      internalID: -624902435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ac699519bddd47b2e5d6bb1447446
+      internalID: -1619555245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_72
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 390
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b09c2b9589ead48a0802409b7b7a30
+      internalID: -828984117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_73
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 384
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8afa06e625cbc4ab5ebe2905421262
+      internalID: -401950159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_74
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 390
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287cdfc9c69f9540a04483ba866ef8e
+      internalID: 342362644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_75
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 390
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f0df057cf826409377514f6f4381f
+      internalID: -1006881994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_76
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 384
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452b7b2bc54c0b48a068aba81f6c0e6
+      internalID: 733352007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 375
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5cc3ff24e2975498b0635f0b5795f2
+      internalID: 807232845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 1188
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234a577dd2f90449a0a2e3ae73e5ab0
+      internalID: -730769215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_79
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 354
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d64df060fc6f419ec04ab3433b256
+      internalID: -2147072510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_80
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019cccdc458651d4899ff1af9c12153b
+      internalID: -154228235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_81
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 357
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764c41f8d0cfa04fb5225447674a642
+      internalID: -226547515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 27
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04e3ed2c13a7e4db8a2b22ef8913ca
+      internalID: 736067396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_83
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 60
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d56ba978ceb50488db84e9ea392f56
+      internalID: 702085054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 324
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1e7e8fae053004abafbaa5f7e70e97
+      internalID: 1601026689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccede3d3e092434787103244521640f
+      internalID: 1889036234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_86
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 243
+        width: 181
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3267390a6c8149be7fcfc58e446d1
+      internalID: 1655761316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_87
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 217
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834d9ba5c4cae344d98a14ba6a2f7738
+      internalID: -1760671901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 126
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de89e36b7f045f4fb6b9ad483392504
+      internalID: 772709544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_89
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 109
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2448c83db624de47920f709c08b1ad2
+      internalID: 1895322257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499208a78f648364da120fa0082b4e21
+      internalID: 1473599341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 95
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fdf927734b9ee4da9d3413920cf5f6
+      internalID: -1185676971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_92
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1203d5490af60144a0ccf526e676868
+      internalID: -1147808926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_93
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 83
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b295733d509f386438520af63ab1fccd
+      internalID: -369426290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_94
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 65
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39caae02711956a418e3e8fc68bcac85
+      internalID: -414321557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab82f8537f7cc7443a8a860e6d54ae95
+      internalID: -1289443668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_96
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 18
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30074d073e54aaa41ac656cdfef2bb4c
+      internalID: -627104834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_97
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 38
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9bc77c2b2a5b4cb7d408584f09552
+      internalID: -1798252310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_98
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 40
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f7e76abe0b2084595911119473e884
+      internalID: 1599891048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_99
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 39
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ec4d1a4a7c694592031e9765a9e97
+      internalID: -241535222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_100
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0a536b01806649b91ffba35fd60ab
+      internalID: -423420978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_101
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 24
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c29514b61e76e44caf4f83a752b5c80
+      internalID: -1491691179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Blue Neon UI Banner Set_102
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23221fc6c2675b546a5cc5180d250ff0
+      internalID: 1832986616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6f763c0b5474f634ebd9070a1b87db25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Futuristic Blue Neon UI Banner Set_0: -5048922379795436119
+      Futuristic Blue Neon UI Banner Set_1: 6106951354650793094
+      Futuristic Blue Neon UI Banner Set_10: -4214671128685828184
+      Futuristic Blue Neon UI Banner Set_100: -423420978
+      Futuristic Blue Neon UI Banner Set_101: -1491691179
+      Futuristic Blue Neon UI Banner Set_102: 1832986616
+      Futuristic Blue Neon UI Banner Set_11: 9099903478569897686
+      Futuristic Blue Neon UI Banner Set_12: 1689775034297714562
+      Futuristic Blue Neon UI Banner Set_13: -8427630390775662569
+      Futuristic Blue Neon UI Banner Set_14: 4415555225249899497
+      Futuristic Blue Neon UI Banner Set_15: -7019606958834437630
+      Futuristic Blue Neon UI Banner Set_16: -2357509597935888427
+      Futuristic Blue Neon UI Banner Set_17: -2325700583831690895
+      Futuristic Blue Neon UI Banner Set_18: -526783689618689760
+      Futuristic Blue Neon UI Banner Set_19: 5895743191018945441
+      Futuristic Blue Neon UI Banner Set_2: -881816466566867550
+      Futuristic Blue Neon UI Banner Set_20: -7842593206409290925
+      Futuristic Blue Neon UI Banner Set_21: 6220696778471727442
+      Futuristic Blue Neon UI Banner Set_22: -2060310558356722607
+      Futuristic Blue Neon UI Banner Set_23: 2894273336182558018
+      Futuristic Blue Neon UI Banner Set_24: 7009383163481628139
+      Futuristic Blue Neon UI Banner Set_25: -2935703544166389070
+      Futuristic Blue Neon UI Banner Set_26: -1664106331390667375
+      Futuristic Blue Neon UI Banner Set_27: -3239735814612802276
+      Futuristic Blue Neon UI Banner Set_28: -3608070288401836013
+      Futuristic Blue Neon UI Banner Set_29: -6720288560138375253
+      Futuristic Blue Neon UI Banner Set_3: -6195284615338845976
+      Futuristic Blue Neon UI Banner Set_30: -7992069069525950779
+      Futuristic Blue Neon UI Banner Set_31: -3163901495098406887
+      Futuristic Blue Neon UI Banner Set_32: -109229627108086208
+      Futuristic Blue Neon UI Banner Set_33: 3442390254225655628
+      Futuristic Blue Neon UI Banner Set_34: -8496277123654000375
+      Futuristic Blue Neon UI Banner Set_35: 7420557670832529697
+      Futuristic Blue Neon UI Banner Set_36: 1663742645825261494
+      Futuristic Blue Neon UI Banner Set_37: -5000508394845089618
+      Futuristic Blue Neon UI Banner Set_38: -7009529700447894685
+      Futuristic Blue Neon UI Banner Set_39: -8734574379296111064
+      Futuristic Blue Neon UI Banner Set_4: 5962060750988490720
+      Futuristic Blue Neon UI Banner Set_40: -6101124801024659626
+      Futuristic Blue Neon UI Banner Set_41: 4774887584826892919
+      Futuristic Blue Neon UI Banner Set_42: -2763013248291419474
+      Futuristic Blue Neon UI Banner Set_43: -551134380774397481
+      Futuristic Blue Neon UI Banner Set_44: -9195274189849350710
+      Futuristic Blue Neon UI Banner Set_45: -3700220508187392796
+      Futuristic Blue Neon UI Banner Set_46: 5421288101119845480
+      Futuristic Blue Neon UI Banner Set_47: -5495264658860876718
+      Futuristic Blue Neon UI Banner Set_48: 1093899500412980661
+      Futuristic Blue Neon UI Banner Set_49: -4074555633264038106
+      Futuristic Blue Neon UI Banner Set_5: 6556495909112791047
+      Futuristic Blue Neon UI Banner Set_50: -7810444442135522183
+      Futuristic Blue Neon UI Banner Set_51: -7732456538895130015
+      Futuristic Blue Neon UI Banner Set_52: 210167924714765646
+      Futuristic Blue Neon UI Banner Set_53: -158781258
+      Futuristic Blue Neon UI Banner Set_54: -1038208121
+      Futuristic Blue Neon UI Banner Set_55: -273570226
+      Futuristic Blue Neon UI Banner Set_56: -1490543121
+      Futuristic Blue Neon UI Banner Set_57: -1657091106
+      Futuristic Blue Neon UI Banner Set_58: 710580241
+      Futuristic Blue Neon UI Banner Set_59: 480855347
+      Futuristic Blue Neon UI Banner Set_6: 8663762003285416471
+      Futuristic Blue Neon UI Banner Set_60: -1779228352
+      Futuristic Blue Neon UI Banner Set_61: 1210763187
+      Futuristic Blue Neon UI Banner Set_62: 1198074373
+      Futuristic Blue Neon UI Banner Set_63: -222020806
+      Futuristic Blue Neon UI Banner Set_64: -35861007
+      Futuristic Blue Neon UI Banner Set_65: 1147425011
+      Futuristic Blue Neon UI Banner Set_66: -2009901783
+      Futuristic Blue Neon UI Banner Set_67: -1809226244
+      Futuristic Blue Neon UI Banner Set_68: 1881060928
+      Futuristic Blue Neon UI Banner Set_69: 347366207
+      Futuristic Blue Neon UI Banner Set_7: 8902382585195153285
+      Futuristic Blue Neon UI Banner Set_70: -624902435
+      Futuristic Blue Neon UI Banner Set_71: -1619555245
+      Futuristic Blue Neon UI Banner Set_72: -828984117
+      Futuristic Blue Neon UI Banner Set_73: -401950159
+      Futuristic Blue Neon UI Banner Set_74: 342362644
+      Futuristic Blue Neon UI Banner Set_75: -1006881994
+      Futuristic Blue Neon UI Banner Set_76: 733352007
+      Futuristic Blue Neon UI Banner Set_77: 807232845
+      Futuristic Blue Neon UI Banner Set_78: -730769215
+      Futuristic Blue Neon UI Banner Set_79: -2147072510
+      Futuristic Blue Neon UI Banner Set_8: -2801798985299955033
+      Futuristic Blue Neon UI Banner Set_80: -154228235
+      Futuristic Blue Neon UI Banner Set_81: -226547515
+      Futuristic Blue Neon UI Banner Set_82: 736067396
+      Futuristic Blue Neon UI Banner Set_83: 702085054
+      Futuristic Blue Neon UI Banner Set_84: 1601026689
+      Futuristic Blue Neon UI Banner Set_85: 1889036234
+      Futuristic Blue Neon UI Banner Set_86: 1655761316
+      Futuristic Blue Neon UI Banner Set_87: -1760671901
+      Futuristic Blue Neon UI Banner Set_88: 772709544
+      Futuristic Blue Neon UI Banner Set_89: 1895322257
+      Futuristic Blue Neon UI Banner Set_9: 4820459147438384965
+      Futuristic Blue Neon UI Banner Set_90: 1473599341
+      Futuristic Blue Neon UI Banner Set_91: -1185676971
+      Futuristic Blue Neon UI Banner Set_92: -1147808926
+      Futuristic Blue Neon UI Banner Set_93: -369426290
+      Futuristic Blue Neon UI Banner Set_94: -414321557
+      Futuristic Blue Neon UI Banner Set_95: -1289443668
+      Futuristic Blue Neon UI Banner Set_96: -627104834
+      Futuristic Blue Neon UI Banner Set_97: -1798252310
+      Futuristic Blue Neon UI Banner Set_98: 1599891048
+      Futuristic Blue Neon UI Banner Set_99: -241535222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+{
+  "teams": [
+    { "teamId": 1, "teamName": "Yangon City", "teamShortName": "YGC" },
+    { "teamId": 2, "teamName": "Dagon FC", "teamShortName": "DGF" },
+    { "teamId": 3, "teamName": "Shan Utd", "teamShortName": "SUTD" },
+    { "teamId": 4, "teamName": "Yadanarbon United", "teamShortName": "YDNB" },
+    { "teamId": 5, "teamName": "Yangon United", "teamShortName": "YGU" },
+    { "teamId": 6, "teamName": "Ispe FC", "teamShortName": "ISPE" },
+    { "teamId": 7, "teamName": "Hantharwady United", "teamShortName": "HTW" },
+    { "teamId": 8, "teamName": "Sagaing United", "teamShortName": "SGU" },
+    { "teamId": 9, "teamName": "Thitsar Arman", "teamShortName": "TAM" },
+    { "teamId": 10, "teamName": "Chinland United", "teamShortName": "CLU" },
+    { "teamId": 11, "teamName": "Ayeyawady FC", "teamShortName": "AYW" },
+    { "teamId": 12, "teamName": "Myawady", "teamShortName": "MWD" }
+  ]
+}

@@ -1,0 +1,12 @@
+# ninja log v5
+121	1052	8157745045181479	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	718a374a651e31b
+1054	2259	8157745055621891	D:/UnityGames/FootballCareer/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/16396h4r/obj/arm64-v8a/libswappywrapper.so	88399c7d06650b30
+51	5291	8157745087384550	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	3f0d196355770cc
+31	5324	8157745087464577	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	77885b04dbfd2e8a
+12	5441	8157745089047004	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	704fe9a6a5141044
+84	5580	8157745090542720	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	cbd209decef57079
+1	5792	8157745092686282	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	26d04fb45cca7f47
+69	6615	8157745100902814	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	71e40a6e7041a6ce
+39	6784	8157745102713376	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	dd9036f19bb6996d
+21	7157	8157745106429658	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c4540ec70567c613
+7158	7379	8157745108755344	D:/UnityGames/FootballCareer/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/16396h4r/obj/arm64-v8a/libgame.so	e421c0fe14d7f61a
